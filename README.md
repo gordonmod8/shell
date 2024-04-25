@@ -1,19 +1,23 @@
+Gordons edits
+
 # Unix shell
 
 ## Content
 
-* [Description](#description)
-* [Learning Outcomes](#learning-outcomes)
-* [Assignments](#assignments)
-* [Contacts](#contacts)
-* [Delivery of the Learning Module](#delivery-of-the-learning-module)
-* [Schedule](#schedule)
-* [Requirements](#requirements)
-* [Resources](#resources)
-  + [Cheat sheet](#cheat-sheet)
-  + [Videos](#videos)
-  + [How to get help](#how-to-get-help)
-* [Folder Structure](#folder-structure)
+- [Unix shell](#unix-shell)
+  - [Content](#content)
+  - [Description](#description)
+  - [Learning Outcomes](#learning-outcomes)
+  - [Assignments](#assignments)
+  - [Contacts](#contacts)
+  - [Delivery of the Learning Module](#delivery-of-the-learning-module)
+  - [Schedule](#schedule)
+  - [Requirements](#requirements)
+  - [Resources](#resources)
+    - [Cheat sheet](#cheat-sheet)
+    - [Videos](#videos)
+    - [How to get help](#how-to-get-help)
+  - [Folder Structure](#folder-structure)
 
 ## Description
 
